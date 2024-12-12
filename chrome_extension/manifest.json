@@ -1,0 +1,11 @@
+{
+	"manifest_version": 3,
+	"name": "Woodpecker saver",
+	"version": "1.0",
+	"description": "Save chess puzzles from lichess",
+	"action":{
+		"default_popup": "page.html"
+	},
+	"permissions": ["activeTab", "scripting", "storage"],
+	"host_permissions": ["https://lichess.org/*"]
+}

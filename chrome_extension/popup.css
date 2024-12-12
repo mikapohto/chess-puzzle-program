@@ -1,0 +1,53 @@
+html
+{
+	width: 200px;
+	height: 125px;
+}
+
+body
+{
+	background-color: #8A8A8A;
+}
+
+h1
+{
+	color: #ffffff;
+	text-align: center;
+}
+
+.number_div
+{
+	text-align: center;
+	padding: 1px 0px;
+}
+
+#save_btn
+{
+	background-color: black;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	padding: 3px 50px;
+}
+
+#quantity
+{
+	background-color: black;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	width: 25%;
+	outline: none;
+	padding: 3px 0px;
+}
+
+#number_less_btn, #number_more_btn
+{
+	background-color: transparent;
+	border: none;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}

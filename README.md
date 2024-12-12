@@ -20,6 +20,8 @@ There are files you have to modify to add puzzles for the program:
 		Next comes the pgn on multiple rows.
 		Finally one can add addition text between two asterisks at the end of
 		the file. e.g. *this is text*. Only lowercase letters are recognized.
+			-There's a chrome-extension in chrome_extension folder to help save
+			puzzles from Lichess.
 There is a small library of puzzles included so one can use them as an example.
 The sample puzzles are from https://lichess.org/training/themes .
 
